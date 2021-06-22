@@ -1,0 +1,6 @@
+[server]
+PORT = "8080"
+HOST = "127.0.0.1"
+[redis]
+PORT = "6379"
+Password = ""

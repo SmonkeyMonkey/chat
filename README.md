@@ -18,6 +18,6 @@ go run *.go
 Go on http://localhost:8080, type your username in window and you can speaking :)
 
 ## Features
-Nicknames in chat has be unique
-Notification about new user join/left
-Ctrl+C in console removes chat history Set from Redis
+Nicknames in chat has be unique\
+Notification about new user join/left\
+Ctrl+C in console removes chat history Set from Redis\

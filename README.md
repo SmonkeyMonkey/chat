@@ -1,7 +1,7 @@
 Golang chat for real-time communication based on gorilla/websocket which realise WebSocket protocol,redis for saving messages and BurntSushi/toml used for parsing configuration file
 ## Clone 
 ```
-git clone github.com/smonkeymonkey/chat
+git clone https://github.com/SmonkeyMonkey/chat
 ```
 config.toml has default settings,edit them if you need specific settings
 
